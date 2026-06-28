@@ -1,4 +1,4 @@
-version=1.0.1
-url=https://drive.usercontent.google.com/download?id=1X-RgnhayDvC-Krx9-pGfe6Xac3ZrSvMo&export=download&authuser=3&confirm=t&uuid=b43acba8-9105-4fe0-838f-7eee9bdaece4&at=ABswASYXuyJHYff9bjrtu6ZAFF64:1782649500216
+version=1.0.2
+url=https://drive.usercontent.google.com/download?id=1oiyKq4t1SLco5NvhEJVyRaRsF10dspQc&export=download&authuser=3&confirm=t&uuid=001dc2a4-73da-4ba8-bf11-bf04ffacbf3a&at=ABswASaAIR1AP6IMapgWFbgXJwlp:1782657641608
 necessary=true
 
