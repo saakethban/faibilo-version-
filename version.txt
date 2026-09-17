@@ -1,5 +1,32 @@
 version=0.1.1
 url=https://drive.usercontent.google.com/download?id=1sih1jUBO3fQm-SDSuLb8IkiwYoTZZPc2&export=download&authuser=3&confirm=t&uuid=2db11720-a3a2-4967-a6bc-f8cde28af44d&at=ABswASbwUYZGBkau7SDRDwUJQ5Cc:1782659470500
 necessary=false
-
+notes=some ui changes and some more regulare browser feteres 
+features: 💿 Floating Desktop Media Disk Widget
+What it is: A standalone, transparent, draggable circular vinyl/CD disk companion widget that floats on your desktop.
+Why it's special: When you play music or video (YouTube, Spotify, Soundcloud, etc.) in any tab, the floating disc spins with album art, expands into a player with track info, playback controls, volume, seek bar, and a "Go to Tab" button—even when the browser is minimized or you are playing a full-screen game! No other browser has a desktop vinyl companion like this.
+2. 🌈 Dynamic Ambient Glow (Ambilight for the Web)
+What it is: Real-time color-sampling technology that extracts the dominant colors from whatever video or webpage you are viewing.
+Why it's special: Casts an interactive, dynamic ambient glow behind the browser chrome and adjusts the browser's accent lighting to match the website or video you're watching (similar to Philips Ambilight TVs).
+3. 🎮 Native Discord Rich Presence (RPC)
+What it is: Built directly into the core browser—no third-party extensions or helper software required.
+Why it's special: Automatically showcases what you are doing on your Discord profile (browsing, current media playing, custom Faibilo status) with active timestamps and branding.
+4. 📱 Quick-Slide Web App Sidebar
+What it is: A dedicated, ultra-fast floating side panel for your favorite tools (ChatGPT, Discord, WhatsApp, YouTube, custom bookmarks).
+Why it's special: Opens instantly beside your current tab without disrupting your main browsing session, reloading pages, or creating cluttered new windows.
+5. 🛡️ Controlled External App Redirection
+What it is: Intercepts any website attempting to open an installed desktop application on your PC (discord://, zoommtg://, spotify://, steam://, mailto:, etc.).
+Why it's special: Prevents silent app hijacking and ERR_UNKNOWN_URL_SCHEME errors. Shows you the requesting website origin, target app, and exact URL in a sleek confirmation modal with an option to remember your choice per site.
+6. 🖥️ Screen Share Picker with Real-Time Window Previews
+What it is: A custom-built WebRTC screen and window picker.
+Why it's special: Rather than Chrome's generic system dialog, Faibilo provides a luxury glassmorphic source picker with live thumbnail previews, window application icons, tab switching between screens and windows, and a system audio toggle.
+7. 🚫 Zero-Extension Built-In Ad & Popup Shield
+What it is: Native network-level request blocking combined with cosmetic CSS ad-hiding.
+Why it's special: Built straight into Electron sessions—no heavy extensions like AdBlock or uBlock required to maintain high performance and clean pages.
+8. 🚀 Luxury Glassmorphic Cyberpunk Design System
+What it is: Deep obsidian dark mode (#070a08), emerald/mint neon accents (#8be2bf), frosted glass panels (backdrop-filter), and animated boot splash screen with rotating orbital rings and particle bursts.
+Why it's special: Chrome and Edge look like corporate utility tools; Faibilo looks and feels like high-tech, enthusiast software crafted for modern setups.
+9. 🔄 In-App Lightweight GitHub Updater with "What's New"
+What it is: A simple, serverless update system powered by a single version.txt in a GitHub repository.
+Why it's special: When an update is released, Faibilo streams the download with an animated progress ring and displays release notes and bulleted feature highlights directly in the splash screen and Settings without needing complex backend servers.
 
