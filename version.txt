@@ -1,13 +1,7 @@
-version=1.1.1
+version=1.1.2
 url=https://github.com/saakethban/faibilo-version-/releases/download/v1.1.1/FaibiloSetup.exe
 necessary=false
 
-notes=Welcome to Faibilo v0.1.1! This update introduces full screen sharing, external app redirection security, and an all-new interface.
+notes=Welcome to Faibilo v1.1.2! This update has improved the side bar and removed  some loading bugs and solved cloud flair verification issue.
 
 features:
-- WebRTC Screen Sharing: Live source picker with real-time screen and window previews plus audio sharing
-- External App Security: Permission prompt before websites can open desktop apps (Discord, Zoom, Spotify, Steam, etc.)
-- Remembered Permissions: Save your app opening preferences per site and manage them anytime in Settings
-- Redesigned Splash & Update UI: Luxury glassmorphic styling, animated orbital rings, and dynamic update highlights
-- Ad & Popup Shield Enhancements: Faster request filtering and cosmetic element cleanup
-- Performance & Memory Tuning: Optimized background tab throttling and reduced system resource usage
