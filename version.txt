@@ -1,5 +1,5 @@
 version=1.1.2
-url=https://github.com/saakethban/faibilo-version-/releases/download/v1.1.1/FaibiloSetup.exe
+url=https://github.com/saakethban/faibilo-version-/releases/download/v1.1.2/FaibiloSetup.exe
 necessary=false
 
 notes=Welcome to Faibilo v1.1.2! This update has improved the side bar and removed  some loading bugs and solved cloud flair verification issue.
